@@ -9,5 +9,5 @@
 
 ## Multimodal
 
-- images_and_sentences.tsv collects the sentences beneath each image, for the articles in English and Italian. The images can be found [here](https://drive.google.com/file/d/1tNYxI64r8FYIu2rd2xihTGdf4wjFqV4P/view?usp=sharing) (size = 346M).
+- images_and_sentences.tsv collects the sentences beneath each image, for the articles in English and Italian. The images can be found [here](https://drive.google.com/file/d/1tNYxI64r8FYIu2rd2xihTGdf4wjFqV4P/view?usp=sharing) (size = 346MB).
 - sample_captions.tsv contains the images identifiers, the sentences and the automatically generated captions for the studied sample.
